@@ -1,0 +1,14 @@
+@media (max-width: 575.98px){
+    .graphic-3d-img {
+        width: 300px!important;
+        margin-top: 246px;
+        height: 362px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    .graphic-3d-img {
+        width: 525px!important;
+        margin-top: 167px;
+    }
+}
